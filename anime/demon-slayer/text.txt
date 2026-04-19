@@ -1,0 +1,33 @@
+Computer Laboratory Report
+
+Submitted by:
+Name
+Bluebird HSS/College
+Roll No.: 16(MS1)
+
+Submitted to:
+The Department of Computer Science
+Bluebird HSS/College
+Kumaripati, Lalitpur
+
+Submitted in:
+Partial Fulfillment of the course Requirement for the NEB Grade XI Computer Science 
+
+Baisakh, 2083
+
+
+
+Recommendation
+
+This is to clarify the laboratory report submitted by Mr. in titled Computer Laboratory Report prepared in the prescribed format has been approved by the department. This laboratory report is forwarded for evaluation.
+
+Program Director (Science).       Internal Examiner. External Examiner 
+
+
+
+
+Acknowledgement 
+
+This report is prepared as the partial fulfillment of the academic requirement of NEB +2 Computer Science XI. Effort has been made to ensure that the report is accurate and professional as far as possible.
+
+I would like to express my special thanks to our teacher Sundar Bastakoti, Sagar Bhatta and Mukti Ghimire and my friends who helped me making this project successful in limited time.
